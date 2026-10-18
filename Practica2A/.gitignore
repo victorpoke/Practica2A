@@ -1,20 +1,20 @@
-1 #Java
-2 *.class
-3
-4 #Logs
-5 *.log
-6
-7 #Eclipse /STS
-8 .metadata/
-9 .settings/
-10 .project
-11 .classpath
-12 .springBeans
-13
-14 #SO
-15 .DS_Store
-16 Thumbs.db
-17
-18 #Variables entorno
-19 .env
-20 .env.*
+#Java
+*.class
+
+#Logs
+*.log
+
+#Eclipse /STS
+.metadata/
+.settings/
+.project
+.classpath
+.springBeans
+
+#SO
+.DS_Store
+Thumbs.db
+
+#Variables entorno
+.env
+.env.*
